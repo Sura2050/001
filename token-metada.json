@@ -1,0 +1,22 @@
+{
+  "name": "Mi Token de Prueba",
+  "symbol": "MTP",
+  "description": "Este es un token de prueba creado para aprender cómo funciona Solana.",
+  "image": "https://altcoinsbox.com/wp-content/uploads/2023/03/render-token-logo.jpg",
+  "external_url": "https://mitoken.com",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://altcoinsbox.com/wp-content/uploads/2023/03/render-token-logo.jpg",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  },
+  "social_links": {
+    "twitter": "https://twitter.com/mitoken",
+    "telegram": "https://t.me/mitoken",
+    "discord": "https://discord.gg/mitoken"
+  }
+}
