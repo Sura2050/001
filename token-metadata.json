@@ -1,7 +1,7 @@
 {
   "name": "Mi Token de Prueba",
   "symbol": "MTP",
-  "description": "Este es un token de prueba creado para aprender cómo funciona Solana.",
+  "description": "Este es un token de prueba creado para aprender cómo funciona Solana. Ideal para desarrolladores y entusiastas de blockchain.",
   "image": "https://img.freepik.com/vector-premium/unus-sed-leo-token-simbolo-cryptocurrency-logo-icono-moneda-circulo-aislado-sobre-fondo-blanco-ilustracion-vectorial_337410-2722.jpg",
   "external_url": "https://mitoken.com",
   "attributes": [],
@@ -9,14 +9,23 @@
     "files": [
       {
         "uri": "https://img.freepik.com/vector-premium/unus-sed-leo-token-simbolo-cryptocurrency-logo-icono-moneda-circulo-aislado-sobre-fondo-blanco-ilustracion-vectorial_337410-2722.jpg",
-        "type": "image/jpg"
+        "type": "image/jpeg",
+        "cdn": true
       }
     ],
-    "category": "image"
+    "category": "image",
+    "creators": [
+      {
+        "address": "FTEa1KuG2xoqUGp6JQs79aDq7ZTbetYPYePZgPQ5ZftD",
+        "share": 100
+      }
+    ]
   },
-  "social_links": {
-    "twitter": "https://twitter.com/mitoken",
-    "telegram": "https://t.me/mitoken",
-    "discord": "https://discord.gg/mitoken"
+  "tags": ["utility", "test", "solana"],
+  "decimal": 6,
+  "background_color": "ffffff",
+  "collection": {
+    "name": "Mi Token Colección",
+    "family": "Mi Token Family"
   }
 }
